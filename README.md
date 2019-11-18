@@ -5,7 +5,7 @@ Vous débarquez en terre inconnue **le Javascriptan**.
 Je serai votre guide dans cette perilleuse traversée.
 Suivez le guide en ces terres inconnues.
 
-![Passeport](images/passeport.jpg)
+![Passeport](images/Passeport.jpg)
 
 ## Votre expédition
 
