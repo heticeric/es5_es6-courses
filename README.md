@@ -31,6 +31,7 @@ Envoyez un mail dont l'objet est `[WEB2p2020] Evaluation javascript` à `eric.pr
 - Votre email
 - Votre compte github
 - Une mini bio
+- Une évaluation de vos compétences notées de A-F sur le développement back, front, l'UX/UI, et la gestion de projet.
 - Une photo selfie
 
 Plus le résultat à chacune des questions suivantes.
