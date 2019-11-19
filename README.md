@@ -86,7 +86,7 @@ console.log(j);
 
 ```js
 var prof = {
-	nom:"eric";
+	nom:"eric"
 };
 console.log(prof.nom);
 prof.matiere="js";
