@@ -50,7 +50,7 @@ Vous avez 45 minutes.
 var n = 0;
 var x = 0;
 while (n < 3 ) {
-  n++;
+  n+;
  	x += n;
 }
 ```
