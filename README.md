@@ -25,7 +25,7 @@ Suivez le guide en ces terres inconnues.
 ## Evaluation préliminaire 
 
 Avant de débuter le cours, faisons un rapide exercice de connaissances. 
-Envoyez un mail dont l'objet est `[WEB2p2020] Evaluation javascript` à `eric.priou[@]hetic.net` en me précisant :
+Envoyez un mail dont l'objet est `[WEB2p2021] Evaluation javascript` à `eric.priou[@]hetic.net` en me précisant :
 
 - Votre nom entier
 - Votre email
